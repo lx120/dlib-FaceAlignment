@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dlib_   cmake_demo2</string>
+    <string name="facedetectionBtn">Detect Faces and Alignment</string>
+</resources>
